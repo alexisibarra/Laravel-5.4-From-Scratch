@@ -1,0 +1,1 @@
+Following https://laracasts.com/series/laravel-from-scratch-2017
